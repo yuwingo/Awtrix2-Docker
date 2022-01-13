@@ -1,7 +1,7 @@
 name: Workflow for Images
 
 env:
-  DOCKERHUB_TAG: "whyet/awtrix2"
+  DOCKERHUB_TAG: "guwenyuan/awtrix2"
   DOCKERHUB_SHORT_DESCRIPTION: "Official Multiplatform Container for Awtrix2 Server in collaboration with Blueforcer."
   DOCKERHUB_README_FILE: "README.md"
 
